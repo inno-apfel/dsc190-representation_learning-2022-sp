@@ -1,0 +1,363 @@
+{
+    "collections": {
+        "lectures": {
+            "publication_schema": {
+                "required_artifacts": [
+                    "slides.pdf"
+                ],
+                "optional_artifacts": [
+                    "notes.pdf",
+                    "marked.pdf"
+                ],
+                "metadata_schema": {
+                    "required_keys": {
+                        "date": {
+                            "type": "date"
+                        },
+                        "number": {
+                            "type": "integer"
+                        },
+                        "topic": {
+                            "type": "string"
+                        },
+                        "videos": {
+                            "nullable": true,
+                            "type": "any"
+                        }
+                    }
+                },
+                "allow_unspecified_artifacts": false,
+                "is_ordered": true
+            },
+            "publications": {
+                "01-intro": {
+                    "metadata": {
+                        "date": "2022-03-29",
+                        "number": 1,
+                        "topic": "Introduction",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                },
+                "02-linear_models": {
+                    "metadata": {
+                        "date": "2022-03-31",
+                        "number": 2,
+                        "topic": "Linear Predictors",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                },
+                "03-basis_functions": {
+                    "metadata": {
+                        "date": "2022-04-05",
+                        "number": 3,
+                        "topic": "Basis Functions",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                },
+                "04-radial_basis_functions": {
+                    "metadata": {
+                        "date": "2022-04-07",
+                        "number": 4,
+                        "topic": "RBF Networks",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                },
+                "05-kmeans": {
+                    "metadata": {
+                        "date": "2022-04-12",
+                        "number": 5,
+                        "topic": "K-Means Clustering",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                },
+                "06-linear_algebra": {
+                    "metadata": {
+                        "date": "2022-04-14",
+                        "number": 6,
+                        "topic": "What is an eigenvector?",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                },
+                "07-linear_algebra_II": {
+                    "metadata": {
+                        "date": "2022-04-19",
+                        "number": 7,
+                        "topic": "Matrices and Change of Basis",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                },
+                "08-pca": {
+                    "metadata": {
+                        "date": "2022-04-21",
+                        "number": 8,
+                        "topic": "PCA, Part I",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                },
+                "09-pca-II": {
+                    "metadata": {
+                        "date": "2022-04-26",
+                        "number": 9,
+                        "topic": "PCA, Part II",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                },
+                "10-laplacian_eigenmaps": {
+                    "metadata": {
+                        "date": "2022-05-03",
+                        "number": 10,
+                        "topic": "Spectral Embeddings",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                },
+                "11-laplacian_eigenmaps-II": {
+                    "metadata": {
+                        "date": "2022-05-05",
+                        "number": 11,
+                        "topic": "Nonlinear Dimensionality Reduction",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                },
+                "12-multilayer_perceptrons": {
+                    "metadata": {
+                        "date": "2022-05-10",
+                        "number": 12,
+                        "topic": "Neural Networks",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                },
+                "13-backpropagation": {
+                    "metadata": {
+                        "date": "2022-05-12",
+                        "number": 13,
+                        "topic": "Backpropagation",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                },
+                "14-activations": {
+                    "metadata": {
+                        "date": "2022-05-17",
+                        "number": 14,
+                        "topic": "Activation Functions",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                },
+                "15-architecture": {
+                    "metadata": {
+                        "date": "2022-05-19",
+                        "number": 15,
+                        "topic": "Deep Learning",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                },
+                "16-convolution": {
+                    "metadata": {
+                        "date": "2022-05-24",
+                        "number": 16,
+                        "topic": "Convolutions",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                },
+                "17-conclusion": {
+                    "metadata": {
+                        "date": "2022-05-31",
+                        "number": 17,
+                        "topic": "Conclusions",
+                        "videos": null
+                    },
+                    "artifacts": {}
+                }
+            }
+        },
+        "homeworks": {
+            "publication_schema": {
+                "required_artifacts": [
+                    "homework.zip",
+                    "solutions.zip"
+                ],
+                "optional_artifacts": [],
+                "metadata_schema": {
+                    "required_keys": {
+                        "released": {
+                            "type": "date"
+                        },
+                        "number": {
+                            "type": "integer"
+                        },
+                        "due": {
+                            "type": "datetime"
+                        }
+                    }
+                },
+                "allow_unspecified_artifacts": false,
+                "is_ordered": true
+            },
+            "publications": {
+                "01-linear_predictors": {
+                    "metadata": {
+                        "released": "2022-03-29",
+                        "number": 1,
+                        "due": "2022-04-06 00:00:00"
+                    },
+                    "artifacts": {}
+                },
+                "02-linear_algebra": {
+                    "metadata": {
+                        "released": "2022-04-05",
+                        "number": 2,
+                        "due": "2022-04-13 00:00:00"
+                    },
+                    "artifacts": {}
+                },
+                "03-pca": {
+                    "metadata": {
+                        "released": "2022-04-12",
+                        "number": 3,
+                        "due": "2022-04-20 00:00:00"
+                    },
+                    "artifacts": {}
+                },
+                "04-eigenmaps": {
+                    "metadata": {
+                        "released": "2022-04-19",
+                        "number": 4,
+                        "due": "2022-04-27 00:00:00"
+                    },
+                    "artifacts": {}
+                },
+                "05-nn": {
+                    "metadata": {
+                        "released": "2022-04-26",
+                        "number": 5,
+                        "due": "2022-05-04 00:00:00"
+                    },
+                    "artifacts": {}
+                },
+                "06-nn-II": {
+                    "metadata": {
+                        "released": "2022-05-03",
+                        "number": 6,
+                        "due": "2022-05-11 00:00:00"
+                    },
+                    "artifacts": {}
+                },
+                "07-cnn": {
+                    "metadata": {
+                        "released": "2022-05-10",
+                        "number": 7,
+                        "due": "2022-05-18 00:00:00"
+                    },
+                    "artifacts": {}
+                }
+            }
+        },
+        "discussions": {
+            "publication_schema": {
+                "required_artifacts": [
+                    "notebook"
+                ],
+                "optional_artifacts": [],
+                "metadata_schema": {
+                    "required_keys": {
+                        "recording": {
+                            "nullable": true,
+                            "type": "string"
+                        },
+                        "datetime": {
+                            "type": "datetime"
+                        },
+                        "number": {
+                            "type": "integer"
+                        }
+                    }
+                },
+                "allow_unspecified_artifacts": false,
+                "is_ordered": true
+            },
+            "publications": {
+                "01-basis_functions": {
+                    "metadata": {
+                        "recording": "https://youtu.be/x8oTVLn6yb8",
+                        "datetime": "2022-04-06 00:00:00",
+                        "number": 1
+                    },
+                    "artifacts": {}
+                },
+                "02-kmeans_rbf": {
+                    "metadata": {
+                        "recording": "https://youtu.be/6Cgo8x1J8jc",
+                        "datetime": "2022-04-13 00:00:00",
+                        "number": 2
+                    },
+                    "artifacts": {}
+                },
+                "03-pca": {
+                    "metadata": {
+                        "recording": "https://youtu.be/4G8pIOFT5os",
+                        "datetime": "2022-04-20 00:00:00",
+                        "number": 3
+                    },
+                    "artifacts": {}
+                },
+                "04-pca-II": {
+                    "metadata": {
+                        "recording": "https://youtu.be/Pl6b8jqPIIc",
+                        "datetime": "2022-04-27 00:00:00",
+                        "number": 3
+                    },
+                    "artifacts": {}
+                },
+                "05-spectral_clustering": {
+                    "metadata": {
+                        "recording": "https://youtu.be/WYf8y_ee-ow",
+                        "datetime": "2022-05-04 00:00:00",
+                        "number": 5
+                    },
+                    "artifacts": {}
+                },
+                "06-keras": {
+                    "metadata": {
+                        "recording": "https://youtu.be/bMf7Akl9d6Y",
+                        "datetime": "2022-05-11 00:00:00",
+                        "number": 6
+                    },
+                    "artifacts": {}
+                },
+                "07-nn_regression": {
+                    "metadata": {
+                        "recording": "https://youtu.be/fzJGiy74EYI",
+                        "datetime": "2022-05-18 00:00:00",
+                        "number": 7
+                    },
+                    "artifacts": {}
+                }
+            }
+        },
+        "default": {
+            "publication_schema": {
+                "required_artifacts": [],
+                "optional_artifacts": null,
+                "metadata_schema": null,
+                "allow_unspecified_artifacts": true,
+                "is_ordered": false
+            },
+            "publications": {}
+        }
+    }
+}
