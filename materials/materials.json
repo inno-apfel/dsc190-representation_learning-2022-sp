@@ -37,7 +37,11 @@
                         "topic": "Introduction",
                         "videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/01-intro/slides.pdf"
+                        }
+                    }
                 },
                 "02-linear_models": {
                     "metadata": {
