@@ -40,6 +40,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/01-intro/slides.pdf"
+                        },
+                        "marked.pdf": {
+                            "path": "lectures/01-intro/marked.pdf"
                         }
                     }
                 },
