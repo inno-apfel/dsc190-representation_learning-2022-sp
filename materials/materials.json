@@ -53,7 +53,11 @@
                         "topic": "Linear Predictors",
                         "videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/02-linear_models/slides.pdf"
+                        }
+                    }
                 },
                 "03-basis_functions": {
                     "metadata": {
