@@ -56,6 +56,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/02-linear_models/slides.pdf"
+                        },
+                        "marked.pdf": {
+                            "path": "lectures/02-linear_models/marked.pdf"
                         }
                     }
                 },
