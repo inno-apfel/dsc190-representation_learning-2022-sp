@@ -305,20 +305,26 @@
         "homeworks": {
             "publication_schema": {
                 "required_artifacts": [
-                    "homework.zip",
-                    "solutions.zip"
+                    "homework.pdf",
+                    "solution.pdf",
+                    "template.zip"
                 ],
-                "optional_artifacts": [],
+                "optional_artifacts": [
+                    "starter_code.zip"
+                ],
                 "metadata_schema": {
                     "required_keys": {
+                        "due": {
+                            "type": "datetime"
+                        },
                         "released": {
-                            "type": "date"
+                            "type": "datetime"
                         },
                         "number": {
                             "type": "integer"
                         },
-                        "due": {
-                            "type": "datetime"
+                        "topic": {
+                            "type": "string"
                         }
                     }
                 },
@@ -328,59 +334,19 @@
             "publications": {
                 "01-linear_predictors": {
                     "metadata": {
-                        "released": "2022-03-29",
+                        "due": "2022-04-06 23:59:00",
+                        "released": "2022-03-29 00:00:00",
                         "number": 1,
-                        "due": "2022-04-06 00:00:00"
+                        "topic": "Linear Predictors"
                     },
-                    "artifacts": {}
-                },
-                "02-linear_algebra": {
-                    "metadata": {
-                        "released": "2022-04-05",
-                        "number": 2,
-                        "due": "2022-04-13 00:00:00"
-                    },
-                    "artifacts": {}
-                },
-                "03-pca": {
-                    "metadata": {
-                        "released": "2022-04-12",
-                        "number": 3,
-                        "due": "2022-04-20 00:00:00"
-                    },
-                    "artifacts": {}
-                },
-                "04-eigenmaps": {
-                    "metadata": {
-                        "released": "2022-04-19",
-                        "number": 4,
-                        "due": "2022-04-27 00:00:00"
-                    },
-                    "artifacts": {}
-                },
-                "05-nn": {
-                    "metadata": {
-                        "released": "2022-04-26",
-                        "number": 5,
-                        "due": "2022-05-04 00:00:00"
-                    },
-                    "artifacts": {}
-                },
-                "06-nn-II": {
-                    "metadata": {
-                        "released": "2022-05-03",
-                        "number": 6,
-                        "due": "2022-05-11 00:00:00"
-                    },
-                    "artifacts": {}
-                },
-                "07-cnn": {
-                    "metadata": {
-                        "released": "2022-05-10",
-                        "number": 7,
-                        "due": "2022-05-18 00:00:00"
-                    },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/01-linear_predictors/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/01-linear_predictors/template.zip"
+                        }
+                    }
                 }
             }
         },
