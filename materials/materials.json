@@ -93,6 +93,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/03-basis_functions/slides.pdf"
+                        },
+                        "marked.pdf": {
+                            "path": "lectures/03-basis_functions/marked.pdf"
                         }
                     }
                 },
