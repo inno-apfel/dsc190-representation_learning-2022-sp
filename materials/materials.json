@@ -90,7 +90,11 @@
                         "topic": "Basis Functions",
                         "videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/03-basis_functions/slides.pdf"
+                        }
+                    }
                 },
                 "04-radial_basis_functions": {
                     "metadata": {
