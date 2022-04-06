@@ -247,7 +247,8 @@
         "discussions": {
             "publication_schema": {
                 "required_artifacts": [
-                    "notebook"
+                    "notebook",
+                    "solution-notebook"
                 ],
                 "optional_artifacts": [],
                 "metadata_schema": {
@@ -270,15 +271,19 @@
             "publications": {
                 "01-basis_functions": {
                     "metadata": {
-                        "recording": "https://youtu.be/x8oTVLn6yb8",
+                        "recording": null,
                         "datetime": "2022-04-06 00:00:00",
                         "number": 1
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "notebook": {
+                            "path": "discussions/01-basis_functions/notebook"
+                        }
+                    }
                 },
                 "02-kmeans_rbf": {
                     "metadata": {
-                        "recording": "https://youtu.be/6Cgo8x1J8jc",
+                        "recording": null,
                         "datetime": "2022-04-13 00:00:00",
                         "number": 2
                     },
@@ -286,7 +291,7 @@
                 },
                 "03-pca": {
                     "metadata": {
-                        "recording": "https://youtu.be/4G8pIOFT5os",
+                        "recording": null,
                         "datetime": "2022-04-20 00:00:00",
                         "number": 3
                     },
@@ -294,7 +299,7 @@
                 },
                 "04-pca-II": {
                     "metadata": {
-                        "recording": "https://youtu.be/Pl6b8jqPIIc",
+                        "recording": null,
                         "datetime": "2022-04-27 00:00:00",
                         "number": 3
                     },
@@ -302,7 +307,7 @@
                 },
                 "05-spectral_clustering": {
                     "metadata": {
-                        "recording": "https://youtu.be/WYf8y_ee-ow",
+                        "recording": null,
                         "datetime": "2022-05-04 00:00:00",
                         "number": 5
                     },
@@ -310,7 +315,7 @@
                 },
                 "06-keras": {
                     "metadata": {
-                        "recording": "https://youtu.be/bMf7Akl9d6Y",
+                        "recording": null,
                         "datetime": "2022-05-11 00:00:00",
                         "number": 6
                     },
@@ -318,7 +323,7 @@
                 },
                 "07-nn_regression": {
                     "metadata": {
-                        "recording": "https://youtu.be/fzJGiy74EYI",
+                        "recording": null,
                         "datetime": "2022-05-18 00:00:00",
                         "number": 7
                     },
