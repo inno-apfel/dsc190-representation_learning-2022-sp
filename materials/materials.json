@@ -88,7 +88,24 @@
                         "date": "2022-04-05",
                         "number": 3,
                         "topic": "Basis Functions",
-                        "videos": null
+                        "videos": [
+                            {
+                                "title": "An Embarassment for the Perceptron",
+                                "url": "https://youtu.be/J0LwrPAKJn0?t=220"
+                            },
+                            {
+                                "title": "Basis Functions",
+                                "url": "https://youtu.be/J0LwrPAKJn0?t=1140"
+                            },
+                            {
+                                "title": "Basis Functions and Regressions",
+                                "url": "https://youtu.be/J0LwrPAKJn0?t=3256"
+                            },
+                            {
+                                "title": "A Tale of Two Spaces",
+                                "url": "https://youtu.be/J0LwrPAKJn0?t=3485"
+                            }
+                        ]
                     },
                     "artifacts": {
                         "slides.pdf": {
