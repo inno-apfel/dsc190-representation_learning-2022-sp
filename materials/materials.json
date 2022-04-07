@@ -278,6 +278,9 @@
                     "artifacts": {
                         "notebook": {
                             "path": "discussions/01-basis_functions/notebook"
+                        },
+                        "solution-notebook": {
+                            "path": "discussions/01-basis_functions/solution-notebook"
                         }
                     }
                 },
