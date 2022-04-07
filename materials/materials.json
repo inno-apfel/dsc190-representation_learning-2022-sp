@@ -121,7 +121,20 @@
                         "date": "2022-04-07",
                         "number": 4,
                         "topic": "RBF Networks",
-                        "videos": null
+                        "videos": [
+                            {
+                                "title": "Radial Basis Functions",
+                                "url": "https://youtu.be/6chDzwBHXfc?t=255"
+                            },
+                            {
+                                "title": "Radial Basis Function Networks",
+                                "url": "https://youtu.be/6chDzwBHXfc?t=3406"
+                            },
+                            {
+                                "title": "Choosing RBF Locations",
+                                "url": "https://youtu.be/6chDzwBHXfc?t=3818"
+                            }
+                        ]
                     },
                     "artifacts": {
                         "slides.pdf": {
