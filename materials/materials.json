@@ -126,6 +126,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/04-radial_basis_functions/slides.pdf"
+                        },
+                        "marked.pdf": {
+                            "path": "lectures/04-radial_basis_functions/marked.pdf"
                         }
                     }
                 },
