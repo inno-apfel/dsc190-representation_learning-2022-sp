@@ -395,6 +395,9 @@
                         "homework.pdf": {
                             "path": "homeworks/01-linear_predictors/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/01-linear_predictors/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/01-linear_predictors/template.zip"
                         }
