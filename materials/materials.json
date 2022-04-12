@@ -155,6 +155,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/05-kmeans/slides.pdf"
+                        },
+                        "marked.pdf": {
+                            "path": "lectures/05-kmeans/marked.pdf"
                         }
                     }
                 },
