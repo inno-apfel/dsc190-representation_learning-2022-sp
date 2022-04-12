@@ -152,7 +152,11 @@
                         "topic": "K-Means Clustering",
                         "videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/05-kmeans/slides.pdf"
+                        }
+                    }
                 },
                 "06-linear_algebra": {
                     "metadata": {
