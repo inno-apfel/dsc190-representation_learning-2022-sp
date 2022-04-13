@@ -150,7 +150,20 @@
                         "date": "2022-04-12",
                         "number": 5,
                         "topic": "K-Means Clustering",
-                        "videos": null
+                        "videos": [
+                            {
+                                "title": "Choosing RBF Locations",
+                                "url": "https://youtu.be/A2DMz0wpSKU?t=280"
+                            },
+                            {
+                                "title": "k-Means Clustering",
+                                "url": "https://youtu.be/A2DMz0wpSKU?t=510"
+                            },
+                            {
+                                "title": "K-Means for finding RBF Clusters",
+                                "url": "https://youtu.be/A2DMz0wpSKU?t=3732"
+                            }
+                        ]
                     },
                     "artifacts": {
                         "slides.pdf": {
