@@ -178,10 +178,14 @@
                     "metadata": {
                         "date": "2022-04-14",
                         "number": 6,
-                        "topic": "What is an eigenvector?",
+                        "topic": "What is a matrix?",
                         "videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/06-linear_algebra/slides.pdf"
+                        }
+                    }
                 },
                 "07-linear_algebra_II": {
                     "metadata": {
