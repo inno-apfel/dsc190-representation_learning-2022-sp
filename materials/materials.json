@@ -337,6 +337,9 @@
                     "artifacts": {
                         "notebook": {
                             "path": "discussions/02-kmeans_rbf/notebook"
+                        },
+                        "solution-notebook": {
+                            "path": "discussions/02-kmeans_rbf/solution-notebook"
                         }
                     }
                 },
