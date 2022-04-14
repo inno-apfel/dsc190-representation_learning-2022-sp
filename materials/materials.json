@@ -184,6 +184,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/06-linear_algebra/slides.pdf"
+                        },
+                        "marked.pdf": {
+                            "path": "lectures/06-linear_algebra/marked.pdf"
                         }
                     }
                 },
