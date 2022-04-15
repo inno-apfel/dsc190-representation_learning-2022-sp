@@ -179,7 +179,20 @@
                         "date": "2022-04-14",
                         "number": 6,
                         "topic": "What is a matrix?",
-                        "videos": null
+                        "videos": [
+                            {
+                                "title": "Vectors",
+                                "url": "https://youtu.be/sIqqk-1Y5MY?t=230"
+                            },
+                            {
+                                "title": "Functions of a Vector",
+                                "url": "https://youtu.be/sIqqk-1Y5MY?t=1645"
+                            },
+                            {
+                                "title": "Matrices",
+                                "url": "https://youtu.be/sIqqk-1Y5MY?t=3895"
+                            }
+                        ]
                     },
                     "artifacts": {
                         "slides.pdf": {
