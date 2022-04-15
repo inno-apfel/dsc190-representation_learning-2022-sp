@@ -465,6 +465,22 @@
                             "path": "homeworks/02-basis_functions/template.zip"
                         }
                     }
+                },
+                "03-kmeans_rbf": {
+                    "metadata": {
+                        "due": "2022-04-20 23:59:00",
+                        "released": "2022-04-12 00:00:00",
+                        "number": 3,
+                        "topic": "K-Means and RBF Networks"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/03-kmeans_rbf/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/03-kmeans_rbf/template.zip"
+                        }
+                    }
                 }
             }
         },
