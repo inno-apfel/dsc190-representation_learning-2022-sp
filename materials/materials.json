@@ -207,10 +207,14 @@
                     "metadata": {
                         "date": "2022-04-19",
                         "number": 7,
-                        "topic": "Matrices and Change of Basis",
+                        "topic": "Eigenvectors",
                         "videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/07-linear_algebra_II/slides.pdf"
+                        }
+                    }
                 },
                 "08-pca": {
                     "metadata": {
