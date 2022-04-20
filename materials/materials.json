@@ -226,6 +226,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/07-linear_algebra_II/slides.pdf"
+                        },
+                        "marked.pdf": {
+                            "path": "lectures/07-linear_algebra_II/marked.pdf"
                         }
                     }
                 },
