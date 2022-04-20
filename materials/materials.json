@@ -208,7 +208,20 @@
                         "date": "2022-04-19",
                         "number": 7,
                         "topic": "Eigenvectors",
-                        "videos": null
+                        "videos": [
+                            {
+                                "title": "The Spectral Theorem",
+                                "url": "https://youtu.be/zgmB7QYmpDg?t=270"
+                            },
+                            {
+                                "title": "Why are eigenvectors useful?",
+                                "url": "https://youtu.be/zgmB7QYmpDg?t=2670"
+                            },
+                            {
+                                "title": "Diagonalization",
+                                "url": "https://youtu.be/zgmB7QYmpDg?t=4125"
+                            }
+                        ]
                     },
                     "artifacts": {
                         "slides.pdf": {
