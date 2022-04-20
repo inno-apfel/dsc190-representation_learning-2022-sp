@@ -382,7 +382,11 @@
                         "datetime": "2022-04-20 00:00:00",
                         "number": 3
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "notebook": {
+                            "path": "discussions/03-pca/notebook"
+                        }
+                    }
                 },
                 "04-pca-II": {
                     "metadata": {
