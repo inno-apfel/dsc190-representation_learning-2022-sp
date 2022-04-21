@@ -237,7 +237,20 @@
                         "date": "2022-04-21",
                         "number": 8,
                         "topic": "PCA, Part I",
-                        "videos": null
+                        "videos": [
+                            {
+                                "title": "Dimensionality Reduction",
+                                "url": "https://youtu.be/-0o1l6xefp8?t=288"
+                            },
+                            {
+                                "title": "Covariance Matrices",
+                                "url": "https://youtu.be/-0o1l6xefp8?t=2675"
+                            },
+                            {
+                                "title": "Visualizing Covariance Matrices",
+                                "url": "https://youtu.be/-0o1l6xefp8?t=4105"
+                            }
+                        ]
                     },
                     "artifacts": {
                         "slides.pdf": {
