@@ -242,6 +242,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/08-pca/slides.pdf"
+                        },
+                        "marked.pdf": {
+                            "path": "lectures/08-pca/marked.pdf"
                         }
                     }
                 },
