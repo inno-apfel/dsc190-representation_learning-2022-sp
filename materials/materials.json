@@ -239,7 +239,11 @@
                         "topic": "PCA, Part I",
                         "videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/08-pca/slides.pdf"
+                        }
+                    }
                 },
                 "09-pca-II": {
                     "metadata": {
