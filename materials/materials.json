@@ -531,6 +531,22 @@
                             "path": "homeworks/03-kmeans_rbf/template.zip"
                         }
                     }
+                },
+                "04-covariance": {
+                    "metadata": {
+                        "due": "2022-04-27 23:59:00",
+                        "released": "2022-04-19 00:00:00",
+                        "number": 4,
+                        "topic": "PCA"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/04-covariance/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/04-covariance/template.zip"
+                        }
+                    }
                 }
             }
         },
