@@ -7,7 +7,8 @@
                 ],
                 "optional_artifacts": [
                     "notes.pdf",
-                    "marked.pdf"
+                    "marked.pdf",
+                    "notebook"
                 ],
                 "metadata_schema": {
                     "required_keys": {
@@ -271,6 +272,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/09-pca-II/slides.pdf"
+                        },
+                        "notebook": {
+                            "path": "lectures/09-pca-II/notebook"
                         }
                     }
                 },
