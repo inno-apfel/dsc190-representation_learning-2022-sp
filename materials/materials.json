@@ -268,7 +268,11 @@
                         "topic": "PCA, Part II",
                         "videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/09-pca-II/slides.pdf"
+                        }
+                    }
                 },
                 "10-laplacian_eigenmaps": {
                     "metadata": {
