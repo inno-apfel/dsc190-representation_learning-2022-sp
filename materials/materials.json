@@ -267,7 +267,32 @@
                         "date": "2022-04-26",
                         "number": 9,
                         "topic": "PCA, Part II",
-                        "videos": null
+                        "videos": [
+                            {
+                                "title": "PCA, More Formally",
+                                "url": "https://youtu.be/ubGzuGKy4-0?t=460"
+                            },
+                            {
+                                "title": "Dimensionality Reduction with d >= 2",
+                                "url": "https://youtu.be/ubGzuGKy4-0?t=2845"
+                            },
+                            {
+                                "title": "Reconstructions",
+                                "url": "https://youtu.be/ubGzuGKy4-0?t=3995"
+                            },
+                            {
+                                "title": "Interpreting PCA",
+                                "url": "https://youtu.be/ubGzuGKy4-0?t=4435"
+                            },
+                            {
+                                "title": "PCA in Practice",
+                                "url": "https://youtu.be/ubGzuGKy4-0?t=4480"
+                            },
+                            {
+                                "title": "Demos",
+                                "url": "https://youtu.be/ubGzuGKy4-0?t=4630"
+                            }
+                        ]
                     },
                     "artifacts": {
                         "slides.pdf": {
