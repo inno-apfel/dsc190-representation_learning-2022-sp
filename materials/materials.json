@@ -429,9 +429,13 @@
                     "metadata": {
                         "recording": null,
                         "datetime": "2022-04-27 00:00:00",
-                        "number": 3
+                        "number": 4
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "notebook": {
+                            "path": "discussions/04-pca-II/notebook"
+                        }
+                    }
                 },
                 "05-spectral_clustering": {
                     "metadata": {
