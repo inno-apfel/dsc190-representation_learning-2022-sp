@@ -273,6 +273,9 @@
                         "slides.pdf": {
                             "path": "lectures/09-pca-II/slides.pdf"
                         },
+                        "marked.pdf": {
+                            "path": "lectures/09-pca-II/marked.pdf"
+                        },
                         "notebook": {
                             "path": "lectures/09-pca-II/notebook"
                         }
