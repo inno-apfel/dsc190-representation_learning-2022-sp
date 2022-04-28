@@ -459,6 +459,9 @@
                     "artifacts": {
                         "notebook": {
                             "path": "discussions/04-pca-II/notebook"
+                        },
+                        "solution-notebook": {
+                            "path": "discussions/04-pca-II/solution-notebook"
                         }
                     }
                 },
