@@ -589,8 +589,27 @@
                         "homework.pdf": {
                             "path": "homeworks/04-covariance/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/04-covariance/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/04-covariance/template.zip"
+                        }
+                    }
+                },
+                "05-pca": {
+                    "metadata": {
+                        "due": "2022-05-04 23:59:00",
+                        "released": "2022-04-26 00:00:00",
+                        "number": 5,
+                        "topic": "PCA"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/05-pca/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/05-pca/template.zip"
                         }
                     }
                 }
