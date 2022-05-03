@@ -313,7 +313,11 @@
                         "topic": "Spectral Embeddings",
                         "videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/10-laplacian_eigenmaps/slides.pdf"
+                        }
+                    }
                 },
                 "11-laplacian_eigenmaps-II": {
                     "metadata": {
