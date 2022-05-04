@@ -495,7 +495,11 @@
                         "datetime": "2022-05-04 00:00:00",
                         "number": 5
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "notebook": {
+                            "path": "discussions/05-spectral_clustering/notebook"
+                        }
+                    }
                 },
                 "06-keras": {
                     "metadata": {
