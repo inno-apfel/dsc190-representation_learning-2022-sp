@@ -333,6 +333,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/10-laplacian_eigenmaps/slides.pdf"
+                        },
+                        "marked.pdf": {
+                            "path": "lectures/10-laplacian_eigenmaps/marked.pdf"
                         }
                     }
                 },
