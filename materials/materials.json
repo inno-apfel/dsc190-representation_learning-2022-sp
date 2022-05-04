@@ -311,7 +311,24 @@
                         "date": "2022-05-03",
                         "number": 10,
                         "topic": "Spectral Embeddings",
-                        "videos": null
+                        "videos": [
+                            {
+                                "title": "Nonlinear Dimensionality Reduction",
+                                "url": "https://youtu.be/ffo4R1b1pb8?t=389"
+                            },
+                            {
+                                "title": "Embedding Similarities",
+                                "url": "https://youtu.be/ffo4R1b1pb8?t=2530"
+                            },
+                            {
+                                "title": "The Graph Laplacian",
+                                "url": "https://youtu.be/ffo4R1b1pb8?t=3895"
+                            },
+                            {
+                                "title": "Solving the Optimization Problem",
+                                "url": "https://youtu.be/ffo4R1b1pb8?t=4317"
+                            }
+                        ]
                     },
                     "artifacts": {
                         "slides.pdf": {
