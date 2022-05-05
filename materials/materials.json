@@ -346,7 +346,11 @@
                         "topic": "Nonlinear Dimensionality Reduction",
                         "videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/11-laplacian_eigenmaps-II/slides.pdf"
+                        }
+                    }
                 },
                 "12-multilayer_perceptrons": {
                     "metadata": {
