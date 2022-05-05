@@ -344,7 +344,24 @@
                         "date": "2022-05-05",
                         "number": 11,
                         "topic": "Nonlinear Dimensionality Reduction",
-                        "videos": null
+                        "videos": [
+                            {
+                                "title": "Nonlinear Dimensionality Reduction",
+                                "url": "https://youtu.be/nnTvUaMH2qM?t=395"
+                            },
+                            {
+                                "title": "From Points to Graphs",
+                                "url": "https://youtu.be/nnTvUaMH2qM?t=888"
+                            },
+                            {
+                                "title": "Laplacian Eigenmaps",
+                                "url": "https://youtu.be/nnTvUaMH2qM?t=2885"
+                            },
+                            {
+                                "title": "Spectral Clustering",
+                                "url": "https://youtu.be/nnTvUaMH2qM?t=3472"
+                            }
+                        ]
                     },
                     "artifacts": {
                         "slides.pdf": {
