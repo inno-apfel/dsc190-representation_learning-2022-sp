@@ -667,6 +667,22 @@
                             "path": "homeworks/05-pca/template.zip"
                         }
                     }
+                },
+                "06-eigenmaps": {
+                    "metadata": {
+                        "due": "2022-05-11 23:59:00",
+                        "released": "2022-05-03 00:00:00",
+                        "number": 6,
+                        "topic": "Eigenmaps"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/06-eigenmaps/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/06-eigenmaps/template.zip"
+                        }
+                    }
                 }
             }
         },
