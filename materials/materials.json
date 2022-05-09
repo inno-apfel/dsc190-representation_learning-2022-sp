@@ -663,6 +663,9 @@
                         "homework.pdf": {
                             "path": "homeworks/05-pca/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/05-pca/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/05-pca/template.zip"
                         }
