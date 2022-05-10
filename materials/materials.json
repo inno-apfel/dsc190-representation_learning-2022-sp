@@ -379,7 +379,11 @@
                         "topic": "Neural Networks",
                         "videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/12-multilayer_perceptrons/slides.pdf"
+                        }
+                    }
                 },
                 "13-backpropagation": {
                     "metadata": {
