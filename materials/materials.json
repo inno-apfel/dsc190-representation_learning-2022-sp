@@ -550,7 +550,11 @@
                         "datetime": "2022-05-11 00:00:00",
                         "number": 6
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "notebook": {
+                            "path": "discussions/06-keras/notebook"
+                        }
+                    }
                 },
                 "07-nn_regression": {
                     "metadata": {
