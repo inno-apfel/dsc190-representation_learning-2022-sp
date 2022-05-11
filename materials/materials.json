@@ -377,7 +377,16 @@
                         "date": "2022-05-10",
                         "number": 12,
                         "topic": "Neural Networks",
-                        "videos": null
+                        "videos": [
+                            {
+                                "title": "Neural Networks",
+                                "url": "https://youtu.be/ZVfh19qc5dM?t=336"
+                            },
+                            {
+                                "title": "Gradient Descent",
+                                "url": "https://youtu.be/ZVfh19qc5dM?t=3565"
+                            }
+                        ]
                     },
                     "artifacts": {
                         "slides.pdf": {
