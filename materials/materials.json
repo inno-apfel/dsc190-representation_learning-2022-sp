@@ -391,6 +391,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/12-multilayer_perceptrons/slides.pdf"
+                        },
+                        "marked.pdf": {
+                            "path": "lectures/12-multilayer_perceptrons/marked.pdf"
                         }
                     }
                 },
