@@ -553,6 +553,9 @@
                     "artifacts": {
                         "notebook": {
                             "path": "discussions/06-keras/notebook"
+                        },
+                        "solution-notebook": {
+                            "path": "discussions/06-keras/solution-notebook"
                         }
                     }
                 },
