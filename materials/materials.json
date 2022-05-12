@@ -404,7 +404,11 @@
                         "topic": "Backpropagation",
                         "videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/13-backpropagation/slides.pdf"
+                        }
+                    }
                 },
                 "14-activations": {
                     "metadata": {
