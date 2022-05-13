@@ -420,6 +420,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/13-backpropagation/slides.pdf"
+                        },
+                        "marked.pdf": {
+                            "path": "lectures/13-backpropagation/marked.pdf"
                         }
                     }
                 },
