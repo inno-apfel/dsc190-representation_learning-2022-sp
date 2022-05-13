@@ -726,6 +726,22 @@
                             "path": "homeworks/06-eigenmaps/template.zip"
                         }
                     }
+                },
+                "07-neural_networks": {
+                    "metadata": {
+                        "due": "2022-05-18 23:59:00",
+                        "released": "2022-05-10 00:00:00",
+                        "number": 7,
+                        "topic": "Neural Networks"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/07-neural_networks/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/07-neural_networks/template.zip"
+                        }
+                    }
                 }
             }
         },
