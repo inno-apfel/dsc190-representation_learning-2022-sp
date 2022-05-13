@@ -402,7 +402,20 @@
                         "date": "2022-05-12",
                         "number": 13,
                         "topic": "Backpropagation",
-                        "videos": null
+                        "videos": [
+                            {
+                                "title": "Convexity in 1-d",
+                                "url": "https://youtu.be/AlKP-6jrV58?t=580"
+                            },
+                            {
+                                "title": "Convexity in Many Dimensions",
+                                "url": "https://youtu.be/AlKP-6jrV58?t=3210"
+                            },
+                            {
+                                "title": "Basic Backpropagation",
+                                "url": "https://youtu.be/AlKP-6jrV58?t=3910"
+                            }
+                        ]
                     },
                     "artifacts": {
                         "slides.pdf": {
