@@ -401,7 +401,7 @@
                     "metadata": {
                         "date": "2022-05-12",
                         "number": 13,
-                        "topic": "Backpropagation",
+                        "topic": "Convexity",
                         "videos": [
                             {
                                 "title": "Convexity in 1-d",
@@ -430,10 +430,14 @@
                     "metadata": {
                         "date": "2022-05-17",
                         "number": 14,
-                        "topic": "Activation Functions",
+                        "topic": "More Backprop + Activation Functions",
                         "videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/14-activations/slides.pdf"
+                        }
+                    }
                 },
                 "15-architecture": {
                     "metadata": {
