@@ -457,6 +457,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/14-activations/slides.pdf"
+                        },
+                        "marked.pdf": {
+                            "path": "lectures/14-activations/marked.pdf"
                         }
                     }
                 },
