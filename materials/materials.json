@@ -431,7 +431,28 @@
                         "date": "2022-05-17",
                         "number": 14,
                         "topic": "More Backprop + Activation Functions",
-                        "videos": null
+                        "videos": [
+                            {
+                                "title": "Basic Backpropagation",
+                                "url": "https://youtu.be/DvNqSPOup1Y?t=375"
+                            },
+                            {
+                                "title": "A More Complex Example",
+                                "url": "https://youtu.be/DvNqSPOup1Y?t=2517"
+                            },
+                            {
+                                "title": "Intuition Behind Backprop",
+                                "url": "https://youtu.be/DvNqSPOup1Y?t=2717"
+                            },
+                            {
+                                "title": "Hidden Units",
+                                "url": "https://youtu.be/DvNqSPOup1Y?t=2858"
+                            },
+                            {
+                                "title": "Output Units",
+                                "url": "https://youtu.be/DvNqSPOup1Y?t=4526"
+                            }
+                        ]
                     },
                     "artifacts": {
                         "slides.pdf": {
