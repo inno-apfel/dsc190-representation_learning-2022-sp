@@ -613,7 +613,11 @@
                         "datetime": "2022-05-18 00:00:00",
                         "number": 7
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "notebook": {
+                            "path": "discussions/07-nn_regression/notebook"
+                        }
+                    }
                 }
             }
         },
