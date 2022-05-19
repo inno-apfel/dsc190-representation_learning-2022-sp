@@ -473,6 +473,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/15-architecture/slides.pdf"
+                        },
+                        "marked.pdf": {
+                            "path": "lectures/15-architecture/marked.pdf"
                         }
                     }
                 },
