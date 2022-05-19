@@ -616,6 +616,9 @@
                     "artifacts": {
                         "notebook": {
                             "path": "discussions/07-nn_regression/notebook"
+                        },
+                        "solution-notebook": {
+                            "path": "discussions/07-nn_regression/solution-notebook"
                         }
                     }
                 }
