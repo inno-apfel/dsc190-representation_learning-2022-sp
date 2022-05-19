@@ -470,7 +470,11 @@
                         "topic": "Deep Learning",
                         "videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/15-architecture/slides.pdf"
+                        }
+                    }
                 },
                 "16-convolution": {
                     "metadata": {
