@@ -810,6 +810,22 @@
                             "path": "homeworks/07-neural_networks/template.zip"
                         }
                     }
+                },
+                "08-neural_networks-II": {
+                    "metadata": {
+                        "due": "2022-05-25 23:59:00",
+                        "released": "2022-05-17 00:00:00",
+                        "number": 8,
+                        "topic": "Neural Networks"
+                    },
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/08-neural_networks-II/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/08-neural_networks-II/template.zip"
+                        }
+                    }
                 }
             }
         },
