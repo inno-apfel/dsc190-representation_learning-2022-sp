@@ -803,6 +803,9 @@
                         "homework.pdf": {
                             "path": "homeworks/07-neural_networks/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/07-neural_networks/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/07-neural_networks/template.zip"
                         }
