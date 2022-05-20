@@ -468,7 +468,24 @@
                         "date": "2022-05-19",
                         "number": 15,
                         "topic": "Deep Learning",
-                        "videos": null
+                        "videos": [
+                            {
+                                "title": "NNs and Representations",
+                                "url": "https://youtu.be/DcaEMIZWxV0?t=397"
+                            },
+                            {
+                                "title": "Architecture",
+                                "url": "https://youtu.be/DcaEMIZWxV0?t=1270"
+                            },
+                            {
+                                "title": "Deep Networks",
+                                "url": "https://youtu.be/DcaEMIZWxV0?t=1685"
+                            },
+                            {
+                                "title": "Convolutions",
+                                "url": "https://youtu.be/DcaEMIZWxV0?t=3240"
+                            }
+                        ]
                     },
                     "artifacts": {
                         "slides.pdf": {
