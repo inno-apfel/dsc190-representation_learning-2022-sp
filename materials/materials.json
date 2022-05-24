@@ -500,10 +500,14 @@
                     "metadata": {
                         "date": "2022-05-24",
                         "number": 16,
-                        "topic": "Convolutions",
+                        "topic": "Convolutional Neural Networks",
                         "videos": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides.pdf": {
+                            "path": "lectures/16-convolution/slides.pdf"
+                        }
+                    }
                 },
                 "17-conclusion": {
                     "metadata": {
