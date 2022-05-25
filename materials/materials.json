@@ -519,6 +519,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/16-convolution/slides.pdf"
+                        },
+                        "marked.pdf": {
+                            "path": "lectures/16-convolution/marked.pdf"
                         }
                     }
                 },
