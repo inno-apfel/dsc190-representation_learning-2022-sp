@@ -501,7 +501,20 @@
                         "date": "2022-05-24",
                         "number": 16,
                         "topic": "Convolutional Neural Networks",
-                        "videos": null
+                        "videos": [
+                            {
+                                "title": "Convolutions",
+                                "url": "https://youtu.be/bM-VssjXMqE?t=423"
+                            },
+                            {
+                                "title": "Convolutional Neural Networks",
+                                "url": "https://youtu.be/bM-VssjXMqE?t=605"
+                            },
+                            {
+                                "title": "Example: Image Classification",
+                                "url": "https://youtu.be/bM-VssjXMqE?t=1920"
+                            }
+                        ]
                     },
                     "artifacts": {
                         "slides.pdf": {
