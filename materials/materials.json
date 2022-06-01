@@ -852,10 +852,10 @@
                 },
                 "09-super_hw": {
                     "metadata": {
-                        "due": "2022-06-01 23:59:00",
-                        "released": "2022-05-24 00:00:00",
+                        "due": "2022-06-08 23:59:00",
+                        "released": "2022-05-31 00:00:00",
                         "number": 9,
-                        "topic": "Neural Networks"
+                        "topic": "Super Homework"
                     },
                     "artifacts": {
                         "homework.pdf": {
